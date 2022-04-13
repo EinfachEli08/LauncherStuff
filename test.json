@@ -1,22 +1,16 @@
-[
-    {
-        "firstName":"mom",
-        "lastName":"ur",
-        "age":"69",
-        "address":{
-                "street":"69420 fuckman",
-                "city":"sextown",
-                "zip":"42069"},
-        "cars":["fuck","me","hard"]
-    },
-    {
-        "firstName":"mom2",
-        "lastName":"ur2",
-        "age":"692",
-        "address":{
-                "street":"69420 fuckman2",
-                "city":"sextown2",
-                "zip":"420692"},
-        "cars":["fuck2","me2","hard2"]
-    }
-]
+{
+ "firstName": "John",
+ "lastName": "Kennedy",
+ "address": [
+  {
+   "street": "abc",
+   "city": "Hyderabad",
+   "state": "TL"
+  },
+  {
+   "street": "xyz",
+   "city": "Chennai",
+   "state": "TN"
+  }
+ ]
+}
